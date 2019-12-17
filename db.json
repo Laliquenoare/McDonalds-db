@@ -7,6 +7,6 @@
     "questionType": "text",
         "answers": ["8", "3", "7", "4"],
         "rightAnswer": 1
-  },
- ]
+  }
+  ]
 }
